@@ -16,6 +16,7 @@ Thats called IoC container. And created classes are injectable so this is called
    Now http server created and listens at port 3000.
 
 ## Test cases
+Jest is the best usage for unit testing.
 
 Test Case#1
 Request URL -> http://localhost:3000/quotes
@@ -36,3 +37,4 @@ Test Case#4
 Usecase - When server is not running.
 Request URL -> http://localhost:3000/quotes
 Outcome - This site can’t be reached
+
